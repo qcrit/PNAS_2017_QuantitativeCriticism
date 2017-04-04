@@ -1,0 +1,1039 @@
+0:1 Di coniugales tuque genialis tori,
+0:2 Lucina, custos quaeque domituram freta
+0:3 Tiphyn novam frenare docuisti ratem,
+0:4 et tu, profundi saeve dominator maris,
+0:5 clarumque Titan dividens orbi diem,
+0:6 tacitisque praebens conscium sacris iubar
+0:7 Hecate triformis, quosque iuravit mihi
+0:8 deos Iason, quosque Medeae magis
+0:9 fas est precari: noctis aeternae chaos,
+0:10 aversa superis regna manesque impios
+0:11 dominumque regni tristis et dominam fide
+0:12 meliore raptam, voce non fausta precor,
+0:13 nunc, nunc adeste, sceleris ultrices deae,
+0:14 crinem solutis squalidae serpentibus,
+0:15 atram cruentis manibus amplexae facem,
+0:16 adeste, thalamis horridae quondam meis
+0:17 quales stetistis: coniugi letum novae
+0:18 letumque socero et regiae stirpi date,
+0:19 date peius aliud, quod precer sponso malum:
+0:20 vivat, per urbes erret ignotas egens
+0:21 exul pavens invisus incerti laris,
+0:22 iam notus hospes limen alienum expetat,
+0:23 me coniugem optet quoque non aliud queam
+0:24 peius precari, liberos similes patri "
+0:25 similesque matri, parta iam, parta ultio est:
+0:26 peperi, querelas verbaque in cassum sero?
+0:27 non ibo in hostes? manibus excutiam faces
+0:28 caeloque lucem, spectat hoc nostri sator
+0:29 Sol generis, et spectatur, et curru insidens
+0:30 per solita puri spatia decurrit poli?
+0:31 non redit in ortus et remetitur diem?
+0:32 da, da per auras curribus patriis vehi,
+0:33 committe habenas, genitor, et flagrantibus
+0:34 ignifera loris tribue moderari iuga:
+0:35 gemino Corinthos litore opponens moras
+0:36 cremata flammis maria committat duo.
+0:37 hoc restat unum, pronubam thalamo feram
+0:38 ut ipsa pinum postque sacrificas preces
+0:39 caedam dicatis victimas altaribus,
+0:40 per viscera ipsa quaere supplicio viam,
+0:41 si vivis, anime, si quid antiqui tibi
+0:42 remanet vigoris; pelle femineos metus
+0:43 et inhospitalem Caucasum mente indue,
+0:44 quodcumque vidit Pontus aut Phasis nefas,
+0:45 videbit Isthmos. effera ignota horrida,
+0:46 tremenda caelo pariter ac terris mala
+0:47 mens intus agitat: vulnera et caedem et vagum
+0:48 funus per artus— levia memoravi nimis:
+0:49 haec virgo feci; gravior exurgat dolor:
+0:50 maiora iam me scelera post partus decent.
+0:51 accingere ira teque in exitium para
+0:52 furore toto. paria narrentur tua
+0:53 repudia thalamis: quo virum linques modo?
+0:54 hoc quo secuta es. rumpe iam segnes moras:
+0:55 quae scelere parta est, scelere linquenda est domus.
+0:56 Ad regum thalamos numine prospero
+0:57 qui caelum superi quique regnat fretum
+0:58 assint cum populis rite faventibus,
+0:59 primum sceptriferis colla Tonantibus
+0:60 taurus celsa ferat tergore candido;
+0:61 Latinam nivei femina corporis
+0:62 intemptata iugo placet et asperi
+0:63 Martis sanguineas quae cohibet manus,
+0:64 quae dat belligeris foedera gentibus
+0:65 et cornu retinet divite copiam,
+0:66 donetur tenera mitior hostia,
+0:67 et tu, qui facibus legitimis ades,
+0:68 noctem discutiens auspice dextera
+0:69 huc incede gradu marcidus ebrio,
+0:70 praecingens roseo tempora vinculo.
+0:71 et tu quae, gemini praevia temporis,
+0:72 tarde, stella, redis semper amantibus:
+0:73 te matres, avide te cupiunt nurus
+0:74 quamprimum radios spargere lucidos.
+0:75 Vincit virgineus decor
+0:76 longe Cecropias nurus,
+0:77 et quas Taygeti iugis
+0:78 exercet iuvenum modo
+0:79 muris quod caret oppidum,
+0:80 et quas Aonius latex
+0:81 Alpheosque sacer lavat.
+0:82 Si forma velit aspici,
+0:83 cedent Aesonio duci
+0:84 proles fulminis improbi
+0:85 aptat qui iuga tigribus.
+0:86 nec non, qui tripodas movet,
+0:87 frater virginis asperae,
+0:88 cedet Castore cum suo
+0:89 Pollux caestibus aptior.
+0:90 sic, sic, caelicolae, precor,
+0:91 vincat femina coniuges,
+0:92 vir longe superet viros.
+0:93 Haec cum femineo .constitit in choro,
+0:94 unius facies praenitet omnibus.
+0:95 sic cum sole perit sidereus decor,
+0:96 et densi latitant Pleiadum greges
+0:97 cum Phoebe solidum lumine non suo
+0:98 orbem circuitis cornibus alligat.
+0:99 ostro sic niveus puniceo color
+0:100 perfusus rubuit, sic nitidum iubar
+0:101 pastor luce nova roscidus aspicit.
+0:102 ereptus thalamis Phasidis horridi,
+0:103 effrenae solitus pectora coniugis
+0:104 invita trepidus prendere dextera,
+0:105 felix Aeoliam corripe virginem .
+0:106 nunc primum soceris, sponse, volentibus.
+0:107 concesso, iuvenes, ludite iurgio,
+0:108 hinc illinc, iuvenes, mittite carmina:
+0:109 rara est in dominos iusta licentia.
+0:110 Candida thyrsigeri proles generosa Lyaei,
+0:111 multifidam iam tempus erat succendere pinum:
+0:112 excute sollemnem digitis marcentibus ignem.
+0:113 festa dicax fundat convicia fescenninus.
+0:114 solvat turba iocos— tacitis eat illa tenebris,
+0:115 si qua peregrino nubit fugitiva marito.
+0:116 Occidimus, aures pepulit hymenaeus meas.
+0:117 vix ipsa tantum, vix adnue credo malum,
+0:118 hoc facere Iason potuit, erepto patre
+0:119 patria atque regno sedibus solam exteris
+0:120 deserere durus? merita contempsit mea
+0:121 qui scelere flammas viderat vinci et mare?
+0:122 adeone credit omne consumptum nefas?
+0:123 incerta vaecors mente vaesana feror
+0:124 partes in omnes; unde me ulcisci queam?
+0:125 utinam esset illi frater! est coniunx: in hanc
+0:126 ferrum exigatur. hoc meis satis est malis?
+0:127 si quod Pelasgae, si quod urbes barbarae
+0:128 novere facinus quod tuae ignorent manus,
+0:129 nunc est parandum. scelera te hortentur tua
+0:130 et cuncta redeant f inclitum regni decus
+0:131 raptum et nefandae virginis parvus comes
+0:132 divisus ense, funus ingestum. patri
+0:133 sparsum que ponto corpus et Peliae senis
+0:134 decocta aeno membra: funestum impie
+0:135 quam saepe fudi sanguinem, et nullum scelus
+0:136 irata feci: suasit infelix amor.
+0:137 Quid tamen Iason potuit, alieni arbitri
+0:138 iurisque factus? debuit ferro obvium
+0:139 offerre pectus— melius, a melius, dolor
+0:140 furiose, loquere, si potest, vivat meus,
+0:141 ut fuit, Iason; si minus, vivat tamen
+0:142 memorque nostri muneris parcat mihi.
+0:143 culpa est Creontis tota, qui sceptro impotens
+0:144 coniugia solvit quique genetricem abstrahit
+0:145 gnatis et arto pignore astrictam fidem
+0:146 dirimit: petatur solus hic, poenas luat
+0:147 quas debet, alto cinere cumulabo domum;
+0:148 videbit atrum verticem flammis agi
+0:149 Malea longas navibus flectens moras.
+0:150 Sile, obsecro, questusque secreto abditos
+0:151 manda dolori, gravia quisquis vulnera
+0:152 patiente et aequo mutus animo pertulit,
+0:153 referre potuit: ira quae tegitur nocet;
+0:154 professa perdunt odia vindictae locum.
+0:155 Levis est dolor qui capere consilium potest
+0:156 et clepere sese: magna non latitant mala.
+0:157 libet ire contra, Nvtr.Siste furialem impetum,
+0:158 alumna: vix te tacita defendit quies.
+0:159 Fortuna fortes metuit, ignavos premit.
+0:160 Tunc est probanda, si locum virtus habet.
+0:161 Numquam potest non esse virtuti locus.
+0:162 Spes nulla rebus monstrat adflictis viam.
+0:163 Qui nil potest sperare, desperet nihil.
+0:164 Abiere Colchi, coniugis nulla est fides
+0:165 nihilque superest opibus e tantis tibi.
+0:166 Medea superest, hic mare et terras vides
+0:167 ferrumque et ignes et deos et fulmina.
+0:168 Rex est timendus,
+0:169 Med.Rex meus fuerat pater.
+0:170 Non metuis arma?
+0:171 Med.Sint licet terra edita.
+0:170 Moriere, MED. Cupio. NVTR. Profuge.
+0:171 Med.Paenituit fugae.
+0:172 Medea— MED. Fiam. NVTR. Mater es. Med.Cui
+0:173 sim vides.
+0:174 Profugere dubitas? Med.Fugiam, ut ulciscar
+0:175 prius.
+0:176 Vindex sequetur, Med.Forsan inveniam moras.
+0:177 Compesce verba, parce iam, demens, minis
+0:175 animosque minue: tempori aptari decet.
+0:176 Fortuna opes auferre, non animum potest,
+0:177 sed cuius ictu regius cardo strepit?
+0:178 ipse' est Pelasgo tumidus imperio Creo.
+0:179 Medea, Colchi noxium Aeetae genus,
+0:180 nondum meis exportat e regnis pedem?
+0:181 molitur aliquid: nota fraus, nota est manus,
+0:182 cui parcet illa quemve securum sinet?
+0:183 abolere propere pessimam ferro luem
+0:184 equidem parabam: precibus evicit gener,
+0:185 concessa vita est, liberet fines metu
+0:186 abeatque tuta. fert gradum contra ferox
+0:187 minaxque nostros propius affatus petit,
+0:188 arcete, famuli, tactu et accessu procul,
+0:189 iubete sileat. regium imperium pati
+0:190 aliquando discat, vade veloci fuga
+0:191 monstrumque saevum horribile iamdudum avehe.
+0:192 Quod crimen aut quae culpa multatur fuga?
+0:193 Quae causa pellat, innocens mulier rogat.
+0:194 Si iudicas, cognosce, si regnas, iube.
+0:195 Aequum atque iniquum regis imperium feras.
+0:196 Iniqua numquam regna perpetuo manent.
+0:197 I, querere Colchis, Med.Redeo: qui advexit, ferat.
+0:198 Vox constitute sera decreto venit.
+0:199 Qui statuit aliquid parte inaudita altera,
+0:200 aequum licet statuerit, haud aequus fuit.
+0:201 C R. Auditus a te Pelia supplicium tulit?
+0:202 sed fare, causae detur egregiae locus.
+0:203 Difficile quam sit animum ab ira flectere
+0:204 iam concitatum quamque regale hoc putet
+0:205 sceptris superbas quisquis admovit manus,
+0:206 qua coepit ire, regia didici mea.
+0:207 quamvis enim sim clade miseranda obruta,
+0:208 expulsa supplex sola deserta, undique
+0:209 adflicta, quondam nobili falsi patre
+0:210 avoque clarum Sole deduxi genus.
+0:211 quodcumque placidis flexibus Phasis rigat
+0:212 Pontusque quicquid Scythicus a tergo videt,
+0:213 palustribus qua maria dulcescunt aquis,
+0:214 armata peltis quicquid exterret cohors
+0:215 inclusa ripis vidua Thermodontiis,
+0:216 hoc omne noster genitor imperio regit.
+0:217 generosa, felix, decore regali potens
+0:218 fulsi: petebant tunc meos thalamos proci,
+0:219 qui nunc petuntur. rapida fortuna ac levis
+0:220 praecepsque regno eripuit, exilio dedit.
+0:221 confide regnis, cum levis magnas opes
+0:222 huc ferat et illuc casus— hoc reges habent
+0:223 magnificum et ingens, nulla quod rapiat dies:
+0:224 prodesse miseris, supplices fido lare
+0:225 protegere, solum hoc Colchico regno extuli,
+0:226 decus illud ingens Graeciae et florem inclitum,
+0:227 praesidia Achivae gentis et prolem deum,
+0:228 servasse memet, munus est Orpheus meum,
+0:229 qui saxa cantu mulcet et silvas trahit,
+0:230 geminum que numen Castor et Pollux meum est
+0:231 satique Borea quique trans Pontum quoque
+0:232 summota Lynceus lumine inmisso videt,
+0:233 omnesque Minyae: nam ducem taceo ducum,
+0:234 pro quo nihil debetur: hunc nulli imputo;
+0:235 vobis revexi ceteros, unum mihi.
+0:236 incesse nunc et cuncta flagitia ingere.
+0:237 fatebor: obici crimen hoc solum potest,
+0:238 Argo reversa, virgini placeat pudor
+0:239 paterque placeat: tota cum ducibus ruet
+0:240 Pelasga tellus, hic tuus primum gener
+0:241 tauri ferocis ore flammanti occidet.
+0:242 fortuna causam quae volet nostram premat,
+0:243 non paenitet servasse tot regum decus.
+0:244 quodcumque culpa praemium ex omni tuli,
+0:245 hoc est penes te. si placet, damna ream;
+0:246 sed redde crimen, sum nocens, fateor, Creo:
+0:247 talem sciebas esse, cum genua attigi
+0:248 fidemque supplex praesidis dextrae peti;
+0:249 terra hac miseriis angulum ac sedem rogo
+0:250 latebrasque viles: urbe si pelli placet,
+0:251 detur remotus aliquis in regnis locus.
+0:252 Non esse me qui sceptra violentus geram
+0:253 nec qui superbo miserias calcem pede,
+0:254 testatus equidem videor haud clare parum
+0:255 generum exulem legendo et adflictum et gravi
+0:256 terrore pavidum, quippe quem poenae expetit
+0:257 letoque Acastus regna Thessalica optinens.
+0:258 senio trementem debili atque aevo gravem
+0:259 patrem peremptum queritur et caesi senis
+0:260 discissa membra, cum dolo captae tuo
+0:261 piae sorores impium auderent nefas.
+0:262 potest Iason, si tuam causam amoves,
+0:263 suam tueri: nullus innocuum cruor
+0:264 contaminavit, afuit ferro manus
+0:265 proculque vestro purus a coetu stetit.
+0:266 tu, tu malorum machinatrix facinorum,
+0:267 cui feminae nequitia ad audenda omnia,
+0:268 robur virile est, nulla famae memoria,
+0:269 egredere, purga regna, letales simul
+0:270 tecum aufer herbas, libera cives metu,
+0:271 alia sedens tellure sollicita deos.
+0:272 Profugere cogis? redde fugienti ratem
+0:273 vel redde comitem— fugere cur solam iubes?
+0:274 non sola veni. bella si metuis pati,
+0:275 utrumque regno pelle, cur sontes duos
+0:276 distinguis? illi Pelia, non nobis iacet;
+0:277 fugam, rapinas adice, desertum patrem
+0:278 lacerum que fratrem, quicquid etiam nunc novas
+0:279 docet maritus coniuges, non est meum:
+0:280 totiens nocens sum facta, sed numquam mihi.
+0:281 Iam exisse decuit, quid seris fando moras?
+0:282 Supplex recedens illud extremum precor,
+0:283 ne culpa natos matris insontes trahat.
+0:284 Vade: hos paterno ut genitor excipiam sinu.
+0:285 Per ego auspicatos regii thalami toros,
+0:286 per spes futuras perque regnorum status,
+0:287 Fortuna varia dubia quos agitat vice,
+0:288 precor, brevem largire fugienti moram,
+0:289 dum extrema natis mater infigo oscula,
+0:290 fortasse moriens. Cr.Fraudibus tempus petis.
+0:291 Quae fraus timeri tempore exiguo potest?
+0:292 Nullum ad nocendum tempus angustum est malis.
+0:293 Parumne miserae temporis lacrimis negas?
+0:294 Etsi repugnat precibus infixus timor,
+0:295 unus parando dabitur exilio dies.
+0:296 Nimis est, recidas aliquid ex isto licet:
+0:297 et ipsa propero. Cr.Capite supplicium lues,
+0:298 clarum priusquam Phoebus attollat diem
+0:299 nisi cedis Isthmo. sacra me thalami vocant,
+0:300 vocat precari festus Hymenaeo dies.
+0:301 Audax nimium qui freta primus
+0:302 rate tam fragili perfida rupit
+0:303 terrasque suas posterga videns
+0:304 animam levibus credidit auris,
+0:305 dubioque secans aequora cursu
+0:306 potuit tenui fidere ligno
+0:307 inter vitae mortisque vias
+0:308 nimium gracili limite ducto.
+0:309 Candida nostri saecula patres
+0:330 videre, procul fraude remota.
+0:331 sua quisque piger litora tangens
+0:332 patrioque senex factus in arvo,
+0:333 parvo dives, nisi quas tulerat
+0:334 natale solum, non norat opes:
+0:335 nondum quisquam sidera norat.
+0:310 stellisque quibus pingitur aether
+0:311 non erat usus. nondum pluvias
+0:312 Hyadas poterat vitare ratis.
+0:313 non Oleniae lumina caprae,
+0:314 nec quae sequitur flectitque senex
+0:315 Attica tardus plaustra Bootes,
+0:316 nondum Boreas,
+0:317 nondum Zephyrus nomen habebant.
+0:318 Ausus Tiphys pandere vasto
+0:319 carbasa ponto
+0:320 legesque novas scribere ventis:
+0:321 nunc lina sinu tendere toto,
+0:322 nunc prolato pede transversos
+0:323 captare notos, nunc antemnas
+0:324 medio tutas ponere malo,
+0:325 nunc in summo religare loco,
+0:326 cum iam totos avidus nimium
+0:327 navita flatus optat et alto
+0:328 rubicunda tremunt sipara velo.
+0:335 b«ne dissaepti foedera mundi
+0:336 traxit in unum Thessala pinus
+0:337 iussitque pati verbera pontum,
+0:338 partemque metus fieri nostri
+0:339 mare sepositum.
+0:340 dedit illa graves improba poenas
+0:341 per tam longos ducta timores,
+0:342 cum duo montes, claustra profundi,
+0:343 hinc atque illinc subito impulsu
+0:344 velut aetherio gemerent sonitu,
+0:345 nubesque ipsas
+0:345 mare deprensum spargeret austris.
+0:346 palluit audax Tiphys et omnes
+0:347 labente manu misit habenas,
+0:348 Orpbeus tacuit torpente lyra
+0:349 ipsaque vocem perdidit Argo.
+0:350 quid cum Siculi virgo Pelori,
+0:351 rabidos utero succincta canes,
+0:352 omnis pariter solvit hiatus? '
+0:353 quis non totos horruit artus
+0:354 totiens uno latrante malo?
+0:355 quid cum Ausonium dirae pestes
+0:356 voce canora mare mulcerent.
+0:357 cum Pieria resonans cithara
+0:358 Thracius Orpheus
+0:359 solitam cantu retinere rates
+0:360 paene coegit Sirena sequi?
+0:361 quod fuit huius pretium cursus?
+0:362 aurea pellis
+0:363 maiusque mari Medea malum,
+0:364 merces prima digna carina.
+0:365 Nunc iam cessit pontus et omnes
+0:365 patitur leges: non Palladia
+0:366 compacta manu regum referens
+0:367 inclita remos quaeritur Argo—
+0:368 quaelibet altum cumba pererrat;
+0:369 terminus omnis motus et urbes
+0:370 muros terra posuere nova,
+0:371 nil qua fuerat sede reliquit
+0:372 pervius orbis:
+0:373 Indus gelidum potat Araxen,
+0:374 Albin Persae Rhenumque bibunt.
+0:375 venient annis saecula seris,
+0:376 quibus Oceanus vincula rerum
+0:377 laxet et ingens pateat tellus
+0:378 Tethysque novos detegat orbes
+0:379 nec sit terris ultima Thule.
+0:380 Alumna, celerem quo rapis tectis pedem?
+0:381 resiste et iras comprime ac retine impetum.
+0:382 Incerta qualis entheos gressus tulit
+0:383 cum iam recepto maenas insanit deo
+0:384 Pindi nivalis vertice aut Nysae iugis,
+0:385 talis recursat huc et huc motu effero,
+0:386 furoris ore signa lymphati gerens,
+0:387 flammata facies spiritum ex alto citat,
+0:388 proclamat, oculos uberi fletu rigat,
+0:389 renidet: omnis specimen affectus capit,
+0:390 quo pondus animi vergat, ubi ponat minas,
+0:390 haeret: minatur aestuat queritur gemit.
+0:391 ubi se iste fluctus franget? exundat furor.
+0:392 non facile secum versat aut medium scelus;
+0:393 se vincet: irae novimus veteris notas,
+0:395 magnum aliquid instat, efferum immane impium:
+0:396 vultum furoris cerno, di fallant metum!
+0:397 Si quaeris odio, misera, quem statuas modum :
+0:398 imitare amorem, regias egone ut faces
+0:399 inulta patiar? segnis hic ibit dies,
+0:400 tanto petitus ambitu, tanto datus?
+0:401 dum terra caelum media libratum feret
+0:402 nitidusque certas mundus evolvet vices
+0:403 numerosque harenis derit et solem dies,
+0:404 noctem sequentur astra, dum siccas polus
+0:405 versabit Arctos, flumina in pontum cadent.
+0:406 numquam meus cessabit in poenas furor
+0:407 crescetque semper, quae ferarum immanitas,
+0:408 quae Scylla, quae Charybdis Ausonium mare
+0:409 Siculumque sorbens quaeve anhelantem premens
+0:410 Titana tantis Aetna fervebit minis?
+0:411 non rapidus amnis, non procellosum mare
+0:412 Pontusve coro saevus aut vis ignium
+0:413 adiuta flatu possit inhibere impetum
+0:414 irasque nostras: sternam et evertam omnia.
+0:415 Timuit Creontem ac bella Thessalici ducis?
+0:416 amor timere neminem verus potest,
+0:417 sed cesserit coactus et dederit manus:
+0:418 adire certe et coniugem extremo alioqui
+0:419 sermone potuit— hoc quoque extimuit ferox;
+0:420 laxare certe tempus immitis fugae
+0:421 genero licebat— liberis unus dies
+0:422 datus est duobus, non queror tempus breve:
+0:423 multum patebit. faciet hic faciet dies
+0:424 quod nullus umquam taceat— invadam deos
+0:425 et cuncta quatiam. Nvtr.Recipe turbatum malis.
+0:426 era, pectus, animum mitiga. Med.Sola est quies,
+0:427 mecum ruina cuncta si video obruta:
+0:428 mecum omnia abeant. trahere, cum pereas, libet.
+0:429 Quam multa sint timenda, si perstas, vide:
+0:430 nemo potentes aggredi tutus potest.
+0:431 O dura fata semper et sortem asperam,
+0:432 cum saevit et cum parcit ex aequo malam!
+0:433 remedia quotiens invenit nobis deus
+0:434 periculis peiora: si vellem fidem
+0:435 praestare meritis coniugis, leto fuit
+0:436 caput offerendum; si mori nollem, fide
+0:437 misero carendum, non timor vicit fidem,
+0:438 sed trepida pietas: quippe sequeretur necem
+0:439 proles parentum, sancta si caelum incolis
+0:440 Iustitia, numen invoco ac testor tuum:
+0:441 nati patrem vicere. quin ipsam quoque,
+0:442 etsi ferox est corde nec patiens iugi,
+0:443 consulere natis malle quam thalamis reor.
+0:444 constituit animus precibus iratam aggredi.
+0:445 atque ecce, viso memet exiluit, furit,
+0:446 fert odia prae se: totus in vultu est dolor.
+0:447 Fugimus, Iason: fugimus— hoc non est novum,
+0:448 mutare sedes; causa fugiendi nova est:
+0:449 pro te solebam fugere, discedo exeo,
+0:450 penatibus profugere quam cogis tuis:
+0:451 at quo remittas? Phasin et Colchos petam
+0:452 patriumque regnum quaeque fraternus cruor
+0:453 perfudit arva? quas peti terras iubes?
+0:454 quae maria monstras? Pontici fauces freti
+0:455 per quas revexi nobilem regum manum 455
+0:456 adulterum secuta per Symplegadas?
+0:457 parvamne lolcon, Thessala an Tempe petam?
+0:458 quascumque aperui tibi vias, clausi mihi—
+0:459 quo me remittis? exuli exilium imperas
+0:460 nec das. eatur. regius iussit gener:
+0:461 nihil recuso, dira supplicia ingere:
+0:462 merui cruentis paelicem poenis premat
+0:463 regalis ira, vinculis oneret manus
+0:464 clausamque saxo noctis aeternae obruat:
+0:465 minora meritis patiar— ingratum caput,
+0:466 revolvat animus igneos tauri halitus
+0:467 interque saevos gentis indomitae metus
+0:468 armifero in arvo flanimeum Aeetae pecus,
+0:469 hostisque subiti tela, cum iussu meo
+0:470 terrigena miles mutua caede occidit;
+0:471 adice expetita spolia Phrixei arietis
+0:472 somnoque iussum lumina ignoto dare
+0:473 insomne monstrum, traditum fratrem neci
+0:474 et scelere in uno non semel factum scelus,
+0:475 ausasqne natas fraude deceptas mea
+0:476 secare membra non revicturi senis:
+0:477 per spes tuorum liberum et certum larem,
+0:478 per victa monstra, per manus, pro te quibus
+0:480 numquam peperci, perque prseteritos metus,
+0:481 per caelum et undas, coniugi testes mei,
+0:482 miserere, redde supplici felix vicem.
+0:483 aliena quaerens regna deserni mea:
+0:484 ex opibus illis, quas procul raptas Scythae
+0:485 usque a perustis Indiae populis agunt,
+0:485 quas quia referta vix domus gaza capit,
+0:486 ornamus auro nemora, nil exul tuli
+0:487 nisi fratris artus: hos quoque impendi tibi;
+0:488 tibi patria cessit, tibi pater, frater, pudor—
+0:489 hac dote nupsi. redde fugienti sua.
+0:490 Perimere cum te vellet infestus Creo,
+0:491 lacrimis meis evictus exilium dedit.
+0:492 Poenam putabam: munus ut video est fuga.
+0:493 Dum licet abire, profuge teque hinc eripe:
+0:494 gravis ira regum est semper, Med.Hoc suades mihi,
+0:495 praestas Creusae: paelicem invisam amoves.
+0:496 Medea amores obicit? Med.Et caedem et dolos.
+0:497 Obicere tandem quod potes crimen mihi?
+0:498 Quodcumque feci. Ias.Restat hoc unum insuper,
+0:499 tuis ut etiam sceleribus fiam nocens.
+0:500 Tua illa, tua sunt illa: cui prodest scelus
+0:501 is fecit— omnes coniugem infamem arguant,
+0:502 solus tuere, solus insontem voca:
+0:503 tibi innocens sit quisquis est pro te nocens.
+0:504 Ingrata vita est cuius acceptae pudet.
+0:505 Retineuda non est cuius acceptae pudet.
+0:506 Quin potius ira concitum pectus doma,
+0:507 placare natis. Med.Abdico eiuro abnuo—
+0:508 meis Creusa liberis fratres dabit?
+0:509 Regina natis exulum, afflictis potens.
+0:510 Ne veniat umquam tam malus miseris dies,
+0:511 qui prole foeda misceat prolem inclitam.
+0:512 Phoebi nepotes Sisyphi nepotibus
+0:513 Quid, misera, meque teque in exitium trahis?
+0:514 abscede quaeso, Med.Supplicem audivit Creo.
+0:515 Quid facere possim, loquere, Med.Pro me? vel.
+0:515 scelus.
+0:516 Hinc rex et illinc— Med.Est (et hic maior metus)
+0:517 Medea, nos † confligere, certemus sine,
+0:518 sit pretium Iason. Ias.Cedo defessus malis.
+0:519 et ipsa casus saepe iam expertos time.
+0:520 Fortuna semper omnis infra me stetit.
+0:521 Acastus instat, Med.Propior est hostis Creo:
+0:522 utrumque profuge. non ut in socerum manus
+0:523 armes nec ut te caede cognata inquines
+0:524 Medea cogit: innocens mecum fuge.
+0:525 Et quis resistet, gemina si bella ingruant,
+0:526 Creo atque Acastus arma si iungant sua?
+0:527 His adice Colchos, adice et Aeeten ducem,
+0:528 Scythas Pelasgis iunge: demersos dabo.
+0:529 Alta extimesco sceptra, Med.Ne cupias vide.
+0:530 Suspecta ne sint, longa colloquia amputa.
+0:531 Nunc summe toto Iuppiter caelo tona,
+0:532 intende dextram, vindices flammas para
+0:533 omnemque ruptis nubibus mundum quate.
+0:534 nec deligenti tela librentur manu
+0:535 rei me vel istum: quisquis e nobis cadet
+0:536 nocens peribit, non potest in nos tuum
+0:537 errare fulmen, Ias.Sana meditari incipe
+0:538 et placida fare, si quod ex soceri domo
+0:539 potest fugam levare solamen, pete.
+0:540 Contemnere animus regias, ut scis, opes
+0:541 potest soletque; liberos tantum fugae
+0:542 habere comites liceat in quorum' sinu
+0:543 lacrimas profundam. te novi nati manent.
+0:544 .Parere precibus cupere me fateor tuis;
+0:545 pietas vetat: namque istud ut possim pati,
+0:546 non ipse memet cogat et rex et socer.
+0:547 haec causa vitae est, hoc perusti pectoris
+0:548 curis levamen. spiritu citius queam
+0:549 carere, membris, luce. Med.Sic natos amat?
+0:550 bene est, tenetur, vulneri patuit locus.—
+0:551 suprema certe liceat abeuntem loqui
+0:552 mandata, liceat ultimum amplexum dare:
+0:553 gratum est et illud, voce iam extrema peto,
+0:554 ne, si qua noster dubius effudit dolor,
+0:555 maneant in animo verba: melioris tibi
+0:556 memoria nostri sedeat; haec irae data
+0:557 oblitterentur. Ias.Omnia ex animo expuli
+0:558 precorque et ipse, fervidam ut mentem regas
+0:559 placideque tractes: miserias lenit quies.
+0:560 Discessit, itane est? vadis oblitus mei
+0:561 et tot meorum facinorum? excidimus tibi?
+0:562 numquam excidemus. hoc age, omnis advoca
+0:563 vires et artes, fructus est scelerum tibi
+0:564 nullum scelus putare, vix fraudi est locus:
+0:565 timemur. hac aggredere, qua nemo potest
+0:566 quicquam timere, perge, nunc aude, incipe
+0:567 quicquid potest Medea, quicquid non potest.
+0:568 Tu, fida nutrix, socia maeroris mei
+0:569 variique casus, misera consilia adiuva,
+0:570 est palla nobis, munus aetherium, domus
+0:571 decusque regni, pignus Aeetae datum
+0:572 a Sole generis, est et auro textili
+0:573 monile fulgens quodque gemmarum nitor
+0:574 distinguit aurum, quo solent cingi comae,
+0:575 haec nostra nati dona nubenti ferant,
+0:576 sed ante diris inlita ac tincta artibus,
+0:577 vocetur Hecate, sacra letifica appara:
+0:578 statuantur arae, flamma iam tectis sonet.
+0:579 Nulla vis flammae tumidive venti
+0:580 tanta, nec teli metuenda torti,
+0:581 quanta cum coniunx viduata taedis
+0:582 ardet et odit;
+0:583 non ubi hibernos nebulosus imbres
+0:584 Auster advexit properatque torrens
+0:585 Hister et iunctos vetat esse pontes
+0:586 ac vagus errat;
+0:587 non ubi impellit Rhodanus profundum,
+0:588 aut ubi in rivos nivibus solutis
+0:589 sole iam forti medioque vere
+0:590 tabuit Haemus.
+0:591 caecus est ignis stimulatus ira
+0:592 nec regi curat patiturve frenos
+0:593 aut timet mortem: cupit ire in ipsos
+0:594 obvius enses.
+0:595 parcite, o divi, veniam precamur,
+0:596 vivat ut tutus mare qui subegit,
+0:597 sed furit vinci dominus profundi
+0:598 regna secunda.
+0:599 ausus aeternos agitare currus
+0:600 immemor metae iuvenis paternae
+0:601 quos polo sparsit furiosus ignes
+0:602 ipse recepit.
+0:603 constitit nulli via nota magno:
+0:604 vade qua tutum populo priori,
+0:605 rumpe nec sacro vidente sancta
+0:606 foedera mundi.
+0:607 Quisquis audacis tetigit carinae
+0:608 nobiles remos nemorisque sacri
+0:609 Pelion densa spoliavit umbra,
+0:610 quisquis intravit scopulos vagantes
+0:611 et tot emensus pelagi labores
+0:612 barbara funem religavit ora
+0:613 raptor externi rediturus auri,
+0:614 exitu diro temerata ponti
+0:615 iura piavit.
+0:616 exigit poenas mare provocatum:
+0:617 Tiphys in primis, domitor profundi,
+0:618 liquit indocto regimen magistro;
+0:619 litore externo, procul a paternis
+0:620 occidens regnis tumuloque vili
+0:621 tectus ignotas iacet inter umbras.
+0:622 Aulis amissi memor inde regis
+0:623 portibus lentis retinet carinas
+0:624 stare querentes.
+0:625 ille vocali genitus Camena,
+0:626 cuius ad chordas modulante plectro
+0:627 restitit torrens, siluere venti,
+0:628 cura suo cantu volucris relicto
+0:629 adfuit tota comitante silva,
+0:630 Thracios sparsus iacuit per agros,
+0:631 at caput tristi fluitavit Hebro:
+0:632 contigit notam Styga Tartarumque,
+0:633 non rediturus.
+0:634 stravit Alcides Aquilone natos,
+0:635 patre Neptuno genitum necavit
+0:636 sumere innumeras solitum figuras:
+0:637 ipse post terrae pelagique pacem,
+0:638 post feri Ditis patefacta regna,
+0:639 vivus ardenti recubans in Oeta
+0:640 praebuit saevis sua membra flammis,
+0:641 tabe consumptus gemini cruoris
+0:642 munere nuptae.
+0:643 stravit Ancaeum violentus ictu
+0:644 saetiger; fratrem, Meleagre, matris
+0:645 impius m actas morerisque dextra
+0:646 matris iratae, meruere cuncti
+0:647 morte quod crimen tener expiavit
+0:648 Herculi magno puer inrepertus,
+0:649 raptus, heu, tutas puer inter undas,
+0:650 ite nunc, fortes, perarate pontum
+0:651 fonte timendo.
+0:652 Idmonem, quamvis bene fata nosset,
+0:653 condidit serpens Libycis harenis;
+0:654 omnibus verax, sibi falsus uni
+0:655 concidit Mopsus caruitque Thebis.
+0:656 ille si vere cecinit futura,
+0:657 exul errabit Thetidis maritus
+0:658 fulmine et ponto moriens Oileus
+0:660 *patrioque pendet
+0:661 crimine poenas:
+0:662 igne fallaci nociturus Argis
+0:663 Nauplius praeceps cadet in profundum,
+0:664 coniugis fatum redimens Pheraei
+0:665 uxor impendes animam marito,
+0:666 ipse qui praedam spoliumque iussit
+0:665 aureum prima revehi carina,
+0:666 arsit accenso Pelias aeno.
+0:667 ustus angustas vagus inter undas.
+0:668 iam satis, divi, mare vindicastis:
+0:669 parcite iusso.
+0:670 Pavet animus, horret, magna pernicies adest.
+0:671 immane quantum augescit et semet dolor
+0:672 accendit ipse vimque praeteritam integrat.
+0:673 vidi furentem saepe et aggressam deos,
+0:674 caelum trahentem: maius his, maius parat
+0:675 Medea monstrum, namque ut attonito gradu
+0:676 evasit et penetrale funestam attigit,
+0:677 totas opes effundit et quicquid diu
+0:678 etiam ipsa timuit promit atque omnem explicat
+0:679 turbam malorum, arcana secreta abdita,
+0:680 et triste laeva congregans sacrum manu
+0:681 pestes vocat quascumque ferventes creat
+0:682 harena Libyae quasque perpetua nive
+0:683 Taurus cohercet frigore Arctoo rigens,
+0:684 et omne monstrum, tracta magicis cantibus
+0:685 squamifera latebris turba desertis adest.
+0:686 hic saeva serpens corpus immensum trahit
+0:687 trifidamque linguam exertat et quaerit quibus
+0:688 mortifera veniat: carmine audito stupet
+0:689 tumidumque nodis corpus aggestis plicat
+0:690 cogitque in orbεs. 'parva sunt' inquit 'mala
+0:691 et vile telum est. ima quod tellus creat:
+0:692 caelo petam venena, iam iam tempus est
+0:693 aliquid movere fraude vulgari altius.
+0:694 huc ille vasti more torrentis iacens
+0:695 descendat anguis, cuius immensos duae.
+0:696 maior minorque, sentiunt nodos ferae
+0:697 (maior Pelasgis apta. Sidoniis minor)
+0:698 pressasque tandem solvat Ophiuchus manus
+0:699 virusque fundat; adsit ad cantus meos
+0:700 lacessere ausus gemina Python numina.
+0:701 et Hydra et omnis redeat Herculea manu
+0:702 succisa serpens, caede se reparans sua.
+0:703 tu quoque relictis pervigil Colchis ades,
+0:704 sopite primum cantibus, serpens, meis.'
+0:705 Postquam evocavit omne serpentum genus,
+0:706 congerit in unum frugis infaustae mala:
+0:707 quaecumque generat invius saxis Eryx,
+0:708 quae fert opertis hieme perpetua iugis
+0:709 sparsus cruore Caucasus Promethei,
+0:710 et quis sagittas divites Arabes linunt
+0:710 pharetraque pugnax Mediis aut Parthi leves,
+0:711 aut quos sub axe frigido sucos legunt
+0:712 lucis Suebae nobiles Hyrcaniis;
+0:713 quodcumque tellus vere nidifico creat
+0:715 aut rigida cum iam bruma discnssit decus
+0:716 nemorum et nivali cuncta constrinxit gelu,
+0:717 quodcumque gramen flore mortifero viret
+0:718 cuiusve fortis sucus in radicibus
+0:719 causas nocendi gignit, attrectat manu.
+0:720 Haemonius illas contulit pestes Athos,
+0:721 has Pindus ingens, illa Pangaei iugis
+0:722 teneram cruenta falce deposuit comam;
+0:723 has aluit altum gurgitem Tigris premens,
+0:724 Danuvius illas, has per arentes plagas
+0:725 tepidis Hydaspes gemmifer currens aquis,
+0:726 nomenque terris qui dedit Baetis suis
+0:727 Hesperia pulsans maria languenti vado.
+0:728 haec passa ferrum est, dum parat Phoebus diem,
+0:729 illius alta nocte succisus frutex;
+0:730 at huius ungue secta cantato seges.
+0:731 Mortifera carpit gramina ac serpentium
+0:732 saniem exprimit miscetque et obscenas aves
+0:733 maestique cor bubonis et raucae strigis
+0:734 exsecta vivae viscera, haec scelerum artifex
+0:735 discreta ponit; his rapax vis ignium,
+0:736 his gelida pigri frigoris glacies inest.
+0:737 addit venenis verba non illis minus
+0:738 metuenda, sonuit ecce vaesano gradu
+0:739 canitque. mundus vocibus primis tremit.
+0:740 Compreeor vulgus silentum vosque ferales deos
+0:741 et Chaos caecum atque opacam Ditis umbrosi domum.
+0:742 Tartari ripis ligatae squalido Mortis specu
+0:743 supplicis. animae, remissis currite ad thalamos novos:
+0:744 rota resistat membra torquens, tangat Ixion humum,
+0:745 Tantalus securus undas hauriat Pirenidas.
+0:746 vos quoque, urnis quas foratis inritus ludit labor,
+0:747 Danaides, coite: vestras hic. dies quaerit manus.
+0:748 gravior uni poena sedeat coniugis socero mei:
+0:749 lubricus per saxa retro Sisyphum volvat lapis,
+0:750 nunc meis vocata sacris, noctium sidus, veni
+0:751 pessimos induta vultus, fronte non una minax.
+0:752 Tibi move gentis vinculo solvens comam
+0:753 secreta nudo nemora lustravi pede
+0:754 et evocavi nubibus siccis aquas
+0:755 egique ad imum maria, et Oceanus graves
+0:756 interius undas aestibus victis dedit;
+0:757 pariterque mundus lege confusa aetheris
+0:758 et solem et astra vidit et vetitum mare
+0:759 tetigistis, ursae. temporum flexi vices:
+0:760 aestiva tellus floruit cantu meo,
+0:761 coacta messem vidit hibernam Ceres;
+0:762 violenta Phasis vertit in fontem vada
+0:763 et Hister, in tot ora divisus, truces
+0:764 compressit undas omnibus ripis piger.
+0:765 Sonuere fluctus, tumuit insanum mare
+0:766 tacente vento; nemoris antiqui domus
+0:767 emisit umbras vocis imperio meae.
+0:768 die relicto Phoebus in medio stetit
+0:769 Hyadesque nostris cantibus motae labant:
+0:770 adesse sacris tempus est, Phoebe, tuis.
+0:771 tibi haec cruenta serta texuntur manu,
+0:772 no vena quae serpens ligat,
+0:773 tibi haec Typhoeus membra quae discors
+0:774 qui regna concussit Iovis,
+0:775 vectoris istic perfidi sanguis inest,
+0:776 quem Nessus expirans dedit.
+0:777 Oetaeus isto cinere defecit rogus,
+0:778 qui virus Herculeum bibit,
+0:779 piae sororis, impiae matris, facem
+0:780 ultricis Althaeae vides,
+0:781 reliquit istas invio plumas specu
+0:782 Harpyia, dum Zeten fugit,
+0:783 his adice pinnas sauciae Stymphalidos
+0:784 Lernaea passae spicula,
+0:785 sonuistis, arae, tripodas agnosco meos
+0:786 favente commotos dea.
+0:787 Video Triviae currus agiles,
+0:788 non quos pleno lucida vultu
+0:789 pernox agitat,
+0:790 sed quos facie Iurida maesta,
+0:791 cum Thessalicis vexata minis
+0:792 caelum freno propiore legit.
+0:793 sic face tristem pallida lucem
+0:794 funde per auras,
+0:795 horrore novo terre populos
+0:795 inque auxilium, Dictynna, tuum
+0:796 pretiosa sonent aera Corinthi.
+0:797 tibi sanguineo caespite sacrum
+0:798 sollemne damus,
+0:799 tibi de medio rapta sepulchro
+0:800 fax nocturnos sustulit ignes,
+0:801 tibi mota caput
+0:802 fiexa voces cervice dedi,
+0:803 tibi funereo de more iacens
+0:804 passos cingit vitta capillos,
+0:805 tibi iactatur
+0:805 tristis Stygia ramus ab unda,
+0:806 tibi nudato pectore maenas
+0:807 sacro feriam bracchia cultro.
+0:808 manet noster sanguis ad aras:
+0:809 assuesce, manus, stringere ferrum
+0:810 carosque pati posse cruores.
+0:811 sacrum laticem percussa dedi.
+0:812 quodsi nimium saepe vocari
+0:813 querens votis, ignosce precor:
+0:814 causa vocandi, Persei, tuos
+0:815 saepius arcus una atque eadem est
+0:816 semper Iason.
+0:817 tu nunc vestes tinge Creusae,
+0:818 quas cum primum sumpserit, imas
+0:819 urat serpens flamma medullas.
+0:820 ignis fulvo elusus in auro
+0:821 latet obscurus, quem mihi caeli
+0:822 qui furta luit viscere feto
+0:823 dedit et docuit condere vires
+0:824 arte, Prometheus, dedit et tenui
+0:825 sulphure tectos Mulciber ignes,
+0:826 et vivacis fulgura flammae
+0:827 de cognato Phaethonte tuli.
+0:828 habeo en dirae dona Chimaerae,
+0:829 habeo flammas
+0:830 usto tauri gutture raptas,
+0:831 quas permixto felle Medusae
+0:832 tacitum iussi servare malum,
+0:833 adde venenis stimulos, Hecate,
+0:834 donisque meis
+0:835 semina flammae condita serva.
+0:836 fallant visus tactusque ferant,
+0:837 meet in pectus venasque calor,
+0:838 stillent artus ossaque tument
+0:839 vincatque suas
+0:840 flagrante coma nova nupta faces.
+0:840 Vota tenentur: ter latratus
+0:841 audax Hecate dedit et sacros
+0:842 edidit ignes face lucifera.
+0:843 Peracta vis est omnis: huc natos voca,
+0:844 pretiosa per quos dona nubenti feram,
+0:845 ite, ite, nati, matris infaustae genus,
+0:846 placate vobis munere et multa prece
+0:847 dominam ac novercam.. vadite et celeres domum
+0:848 referte gressus, ultimo amplexu ut fruar,
+0:849 Quonam cruenta maenas
+0:850 praeceps amore saevo
+0:851 rapitur? quod impotenti
+0:852 facilius parat furore?—
+0:853 vultus citatus ira
+0:854 riget et caput feroci
+0:855 quatiens superba motu
+0:856 regi minatur ultro.
+0:857 quis credat exulem?
+0:858 flagrant genae rubentes.
+0:859 pallor fugat ruborem,
+0:860 nullum vagante forma
+0:861 servat diu colorem.—
+0:862 huc fert pedes et illuc,
+0:863 ut tigris orba natis
+0:864 cursu furente lustrat
+0:865 Grangeticum nemus.
+0:866 frenare nescit iras
+0:867 Medea, non amores;
+0:868 nunc ira amorque causam
+0:869 iunxere: quid sequetur?
+0:870 quando efferet Pelasgis
+0:871 nefanda Colchis arvis
+0:872 gressum metuque solvet
+0:873 regnum simulque reges?—
+0:874 nunc, Phoebe, mitte currus
+0:875 nullo morante loro,
+0:876 nox condat alma lucem,
+0:877 mergat diem timendum
+0:878 dux noctis Hesperus.
+0:879 Periere cuncta, concidit regni status,
+0:880 nata atque, genitor cinere permixto iacent.
+0:881 Qua fraude capti? Nvnt.Qua solent reges capi:
+0:882 donis. Chor.In illis esse quis potuit dolus?
+0:883 Et ipse miror vixque iam facto malo
+0:884 potuisse fieri credo. Chor.Quis cladis modus?
+0:885 Avidus per omnem regiae partem furit .
+0:886 ut iussus ignis: iam domus tota occidit,
+0:887 urbi timetur. Chor.Vnda flammas opprimat.
+0:888 Et hoc in ista clade mirandum accidit:
+0:889 alit unda flammas, quoque prohibetur magis,
+0:890 magis ardet ignis: ipsa praesidia occupat.
+0:891 Effer citatum sede Pelopea gradum,
+0:892 Medea, praeceps quaslibet terras pete.
+0:893 Egone ut recedam? si profugissem prius,
+0:894 ad hoc redirem, nuptias specto novas,
+0:895 quid, anime, cessas? sequere felicem impetum.
+0:896 pars ultionis ista, qua gaudes, quota est?
+0:897 amas adhuc, furiosa, si satis est tibi
+0:898 caelebs Iason, quaere poenarum genus
+0:899 haut usitatum iamque sic temet para:
+0:900 fas omne cedat, abeat expulsus pudor;
+0:901 vindicta levis est quam ferunt purae manus,
+0:902 incumbe in iras teque languentem excita
+0:903 penitusque veteres pectore ex imo impetus
+0:904 violenter hauri. quicquid admissum est adhuc,
+0:905 pietas vocetur, hoc agam et faxo sciant
+0:906 quam levia fuerint quamque vulgaris notae
+0:907 quae commodavi scelera, prolusit dolor
+0:908 per ista noster: quid manus poterant rudes
+0:909 audere magnum? quid puellaris furor?
+0:910 Medea nunc sum; crevit ingenium malis.
+0:911 Iuvat, iuvat rapuisse fraternum caput;
+0:912 artus iuvat secuisse et arcano patrem
+0:913 spoliasse sacro, iuvat in exitium senis
+0:914 armasse natas, quaere materiam, dolor:
+0:915 ad omne facinus non rudem dextram afferes.
+0:916 Quo te igitur, ira, mittis, aut quae perfido
+0:917 intendis hosti tela? nescio quid ferox
+0:918 decrevit animus intus et nondum sibi
+0:919 audet fateri, stulta properavi nimis:
+0:920 ex paelice utinam liberos hostis meus
+0:921 aliquos haberet— quicquid ex illo tuum est,
+0:922 Creusa peperit, placuit hoc poenae genus,
+0:923 meritoque placuit: ultimum, agnosco, scelus
+0:924 animo parandum est— liberi quondam mei,
+0:925 vos pro paternis sceleribus poenas date.
+0:926 Cor pepulit horror, membra torpescunt gelu
+0:927 pectusque tremuit. ira discessit loco
+0:928 materque tota coniuge expulsa redit,
+0:929 egone ut meorum liberum ac prolis meae
+0:930 fundam cruorem? melius, a, demens furor!
+0:931 incognitum istud facinus ac dirum nefas
+0:932 a me quoque absit; quod scelus miseri luent?
+0:933 scelus est Iason genitor et maius scelus
+0:934 Medea mater— occidant, non sunt mei;
+0:935 pereant, mei sunt. crimine et culpa carent,
+0:936 sunt innocentes: fateor, et frater fuit.
+0:937 quid, anime, titubas? ora quid lacrimae rigant
+0:938 variamque nunc huc ira, nunc illuc amor
+0:939 diducit? anceps aestus incertam rapit;
+0:940 ut saeva rapidi bella cum venti gerunt
+0:941 utrimque fluctus maria discordes agunt
+0:942 dubiumque fervet pelagus, haut aliter meum
+0:943 cor fluctuatur. ira pietatem fugat
+0:944 iramque pietas— cede pietati, dolor.
+0:945 Huc, cara proles, unicum afflictae domus
+0:946 solamen, huc vos ferte et infusos mihi
+0:947 coniungite artus, habeat incolumes pater,
+0:948 dum et mater habeat, urguet exilium ac fuga.
+0:949 iam iam meo rapientur avulsi e sinu,
+0:950 flentes, gementes osculis pereant patri,
+0:951 periere matri, rursus increscit dolor
+0:952 et fervet odium, repetit invitam manum
+0:953 antiqua Erinys. ira, qua ducis, sequor,
+0:954 utinam superbae turba Tantalidos meo
+0:955 exisset utero bisque septenos parens
+0:956 natos tulissem! sterilis in poenas fui—
+0:957 fratri patri que quod sat est, peperi duos.
+0:958 Quonam ista tendit turba Furiarum impotens?
+0:959 quem quaerit aut quo flammeos ictus parat,
+0:960 aut cui cruentas agmen infernum faces
+0:961 intentat? ingens anguis excusso sonat
+0:962 tortus flagello, quem trabe infesta petit
+0:963 Megaera? cuius umbra dispersis venit
+0:964 incerta membris? frater est, poenas petit:
+0:965 dabimus., sed omnes, fige luminibus faces,
+0:966 lania, perure, pectus en Furiis patet.
+0:967 Discedere a me, frater, ultrices deas
+0:968 manesque ad imos ire securas iube:
+0:969 mihi me relinque et utere hac, frater, manu
+0:970 quae strinxit ensem— victima manes tuos
+0:971 placamus ista. quid repens affert sonus?
+0:972 parentur arma meque in exitium petunt.
+0:973 excelsa nostrae tecta conscendam domus
+0:974 caede incohata, perge tu mecum comes.
+0:975 tuum quoque ipsa corpus hinc mecum aveham.
+0:976 nunc hoc age, anime: non in occulto tibi est
+0:977 perdenda virtus; approba populo manum.
+0:978 Quicumque regum cladibus fidus doles,
+0:979 concurre, ut ipsam sceleris auctorem horridi
+0:980 capiamus, huc, huc fortis, armiferi cohors
+0:981 conferte tela, vertite ex imo domum.
+0:982 Iam iam recepi sceptra germanum patrem,
+0:983 spoliumque Colchi pecudis auratae tenent;
+0:984 rediere regna, rapta virginitas redit,
+0:985 o placida tandem numina, o festum diem,
+0:986 o nuptialem! vade, perfectum est scelus,
+0:987 vindicta nondum: perage, dum faciunt manus,
+0:988 quid nunc moreris, anime? quid dubitas potens?
+0:989 iam cecidit ira. paenitet facti, pudet,
+0:990 quid, misera, feci? misera? paeniteat licet,
+0:991 feci— voluptas magna me invitam subit,
+0:992 et ecce crescit, derat hoc unum mihi,
+0:993 spectator iste. nil adhuc facti reor:
+0:994 quicquid sine isto fecimus sceleris perit.
+0:995 En ipsa tecti parte praecipiti imminet.
+0:996 huc rapiat ignes aliquis, ut flammis cadat
+0:997 suis perusta. Med.Congere extremum tuis
+0:998 ' natis, Iason, funus, ac tumulum strue:
+0:999 coniunx socerque iusta iam functis habent,
+0:1000 a me sepulti; gnatus hic fatum tulit,
+0:1001 hic te vidente dabitur exitio pari.
+0:1002 Per numen omne perque communes fugas
+0:1003 torosque, quos non nostra violavit fides,
+0:1004 iam parce nato. si quod est crimen, meum est:
+0:1005 me dedo morti; noxium macta caput.
+0:1006 Hac qua recusas, qua doles, ferrum exigam.
+0:1007 i nunc, superbe, virginum thalamos pete,
+0:1008 relinque matres, Ias.Vnus est poenae satis.
+0:1009 Si posset una caede satiari haec manus,
+0:1010 nullam petisset, ut duos perimam, tamen
+0:1011 nimium est dolori numerus angustus meo.
+0:1012 in matre si quod pignus etiamnunc latet,
+0:1013 scrutabor ense viscera et ferro extraham.
+0:1014 Iam perage coeptum facinus, haut ultra precor,
+0:1015 moramque saltem supplicis dona meis.
+0:1016 Perfruere lento scelere, ne propera, dolor:
+0:1017 meus dies est; tempore accepto utimur.
+0:1018 Infesta, memet perime. Med.Misereri iubes.
+0:1019 bene est, peractum est. plura non habui, dolor,
+0:1020 quae tibi litarem. lumina huc tumida alleva,
+0:1021 ingrate Iason, coniugem agnoscis tuam?
+0:1022 sic fugere soleo, patuit in caelum via:
+0:1023 squamosa gemini colla serpentes iugo
+0:1024 summissa praebent, recipe iam gnatoa, parens;
+0:1025 ego inter auras aliti curru vehar.
+0:1026 Per alta vade spatia sublimi aethere,
+0:1027 testare nullos esse, qua veneris, deos.
