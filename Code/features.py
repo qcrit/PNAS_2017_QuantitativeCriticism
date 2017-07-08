@@ -52,11 +52,7 @@ def alius_frequency(text):
     words = _get_words(text)
     return len(filter(lambda word: word.lower() == 'alius', words)) / len(words)
 
-# This is based on the `freqOfNeque` and `freqOfNequeNeq` functions in the original featureextractor,
-# except that it normalizes for the total number of sentences. It appears to compute the ratio of sentences
-# containing the word `neque` twice and sentences that contain both 'neque' and 'aut'. However,
-# QUESTION: I'm not sure I understand the significance of this metric, so we should verify that it's
-# being calculated correctly.
+#neque...neque : neque...aut ratio
 def neque_aut_ratio(text):
     def has_neque_and_aut(sentence):
         words = set(map(lambda word: word.rstrip('.,?'), sentence.lower().split(' ')))
@@ -65,11 +61,7 @@ def neque_aut_ratio(text):
     sentences = _get_sentences(text)
     return _safe_ratio(len(filter(_has_neque_twice, sentences)), len(filter(has_neque_and_aut, sentences)))
 
-# This is based on the `freqOfNequeNec` function in the original featureextractor, except
-# that it normalizes for the total number of sentences. It computes the ratio of sentences
-# containing the word `neque` twice and sentences that contain the word `neq`.
-# QUESTION: I'm not sure I understand the significance of this metric, so we should verify that it's
-# being calculated correctly.
+#neque...neque : nec...nec ratio
 def neque_nec_ratio(text):
     def has_nec(sentence):
         return 'nec' in map(lambda word: word.rstrip('.,?'), sentence.lower().split(' '))
@@ -77,11 +69,7 @@ def neque_nec_ratio(text):
     sentences = _get_sentences(text)
     return _safe_ratio(len(filter(_has_neque_twice, sentences)), len(filter(has_nec, sentences)))
 
-# This is based on the `freqVocative` function in the original featureextractor, except that it
-# normalizes for the total number of words. It appears to compute the number of occurences of 'O'
-# followed by a word ending in 'e' followed by a comma.
-# QUESTION: I'm not sure I understand the significance of this metric, so we should verify that it's
-# being calculated correctly.
+# frequency of vocatives
 def vocative_frequency(text):
     words = _get_words(text)
     return len([word for index,word in enumerate(words[:-1]) if word == 'O' and len(words[index + 1]) > 2 and words[index + 1][-2:] == 'e,']) / len(words)
@@ -89,15 +77,10 @@ def vocative_frequency(text):
 # Returns the ratio of (occurences of 'atque' followed by a consonant) / (total number of words)
 def atque_consonant_frequency(text):
     words = _get_words(text)
-    # QUESTION: This is the list of consonants from the original `freqAtqueCons` function, but
-    # aren't there more than 5 consonants in total? Or does this metric only apply to specific consonants?
     VOWELS = {'a', 'e', 'i', 'o', 'u'}
     return len([word for index,word in enumerate(words[:-1]) if word.lower() == 'atque' and words[index + 1] and words[index + 1][0] not in VOWELS]) / len(words)
 
-# Returns the ratio of
-# (occurences of the conjunction 'cum' that are not followed by a word ending in 'a', 'e', 'is', 'ibus', 'ebus') / total number of words
-# QUESTION: I'm not sure I understand the significance of this metric, so we should verify that it's
-# being calculated correctly.
+# frequency of (selected) cum clauses
 def conjunction_cum_frequency(text):
     suffixes = {'a', 'e', 'is', 'ibus', 'ebus', 'o', 'u', 'ubus'}
     def has_suffix(word):
