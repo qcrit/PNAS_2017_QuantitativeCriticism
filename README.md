@@ -2,7 +2,7 @@
 
 The repository "PNAS_2017_QuantitativeCriticism" includes code relevant to the paper Dexter et al., "Quantitative criticism of literary relationships," PNAS (2017) 10.1073/pnas.1611910114.  
 
-Use svmtests.py to run anomaly detection experiments on natural language texts. There are a number of dependencies, including sklearn. (N.B.: svmtests.py is incompatible with v. 0.19 of sklearn and any more recent versions. Prior to running the replication experiments described below, ensure that you have v. 0.18 installed.) The program takes optional arguments to define the bin size (in sentences), an additional text to analyze (other than Livy and the citation database), and whether to do leave-one-out cross-validation with books of Livy. For instance
+Use svmtests.py to run anomaly detection experiments on natural language texts. There are a number of dependencies, including scikit-learn. (N.B.: svmtests.py is incompatible with v. 0.19 of scikit-learn and any more recent versions. Prior to running the replication experiments described below, ensure that you have v. 0.18 installed.) The program takes optional arguments to define the bin size (in sentences), an additional text to analyze (other than Livy and the citation database), and whether to do leave-one-out cross-validation with books of Livy. For instance
 
 python svmtests.py -b 35 -f "../Data/OtherTexts/Gal.txt" -l yes
 
